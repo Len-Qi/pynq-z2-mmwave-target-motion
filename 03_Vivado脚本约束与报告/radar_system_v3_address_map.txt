@@ -1,0 +1,5 @@
+Radar filter V3 AXI address map
+/axi_gpio_alarm/S_AXI/Reg OFFSET= RANGE=0x00001000
+/processing_system7_0/Data/SEG_axi_gpio_alarm_Reg OFFSET=0x41200000 RANGE=0x00010000
+/processing_system7_0/Data/SEG_radar_filter_0_Reg OFFSET=0x40000000 RANGE=0x00010000
+/radar_filter_0/s_axi_CTRL/Reg OFFSET= RANGE=0x00010000
